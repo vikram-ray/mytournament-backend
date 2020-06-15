@@ -1,0 +1,14 @@
+certifi==2018.8.24
+Django==2.2.8
+django-cors-headers==3.2.0
+django-environ==0.4.5
+django-filter==2.2.0
+djangorestframework==3.10.3
+phonenumbers==8.11.0
+psycopg2==2.8.4
+pytz==2019.3
+sentry-sdk==0.13.5
+sqlparse==0.3.0
+urllib3==1.25.7
+
+
